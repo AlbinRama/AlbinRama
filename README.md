@@ -13,12 +13,12 @@ Ich bin ein leidenschaftlicher Entwickler mit Fokus auf **Java** und Web-Technol
 Ich liebe es, **neue Dinge zu lernen**, mich **kontinuierlich weiterzuentwickeln** und spannende Herausforderungen anzunehmen. Mein Ziel: Coole Projekte umsetzen und meine Reise hier auf GitHub dokumentieren!
 
 ## 💡 Tech Stack
-- **Sprachen**: Java, HTML, CSS (steige auf Tailwind um)
+- **Sprachen**: Java, C, HTML, CSS(Tailwind)
 - **Tools & Systeme**: IntelliJ, Git, Windows, Netzwerktechnik
 
 ## 📫 Reach Me
 - 🌐 [www.visuallocus.com](https://www.visuallocus.com)
-- 💼 [LinkedIn – Albin Rama](https://www.linkedin.com/search/results/all/?keywords=Albin%20Rama)
+- 💼 [LinkedIn – Albin Rama]([https://www.linkedin.com/search/results/all/?keywords=Albin%20Rama](https://www.linkedin.com/in/albin-rama-a76304271/))
 - 📧 a.rama@visuallocus.com
 
 ## 🔭 Projekte kommen bald...
