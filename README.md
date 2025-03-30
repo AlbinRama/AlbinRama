@@ -6,7 +6,7 @@
 
 Ich bin ein leidenschaftlicher Entwickler mit Fokus auf **Java** und Web-Technologien. Aktuell lerne ich **Tailwind CSS**, um moderne und effiziente UIs zu bauen. Neben dem Studium bin ich:
 
-- 👨‍💼 Selbstständig mit meiner Firma [Visual Locus](https://www.visuallocus.com)
+- 👨‍💼 CO-Founder & CTO [Visual Locus](https://www.visuallocus.com)
 - 🛠️ Produktentwickler für innovative Softwarelösungen
 - 🧑‍💻 IT-Techniker mit Erfahrung in Netzwerktechnik & Windows (7 & 10)
 
